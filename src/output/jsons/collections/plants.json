@@ -1,0 +1,2336 @@
+[
+    {
+        "name": "ACEITUNO",
+        "source_pages": [
+            27,
+            28
+        ],
+        "synonyms": [
+            "Simarouba medicinalis Endl., S. officinalis DC."
+        ],
+        "other_popular_names": [
+            "Fren",
+            "Jocote de mico",
+            "Negrito",
+            "Olivo",
+            "Pazac",
+            "Xpazakil"
+        ],
+        "medical_used_parts": [
+            "Hojas y corteza"
+        ],
+        "description": "<description>",
+        "habitat": "En Nativo de Mesoamérica en bosques secos subtropicales, regiones húmedas o pobladas de matorrales, sobre laderas secas rocosas abiertas, en variedad de regiones desde el sur de México a Centro América y el Caribe en alturas hasta de 900 msnm En Guatemala se ha descrito en Baja Verapaz, Chiquimula, El Progreso, Izabal, Jutiapa, Petén, Quiché, Retalhuleu, Santa Rosa y Zacapa",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "ACHICORIA",
+        "source_pages": [
+            29,
+            30
+        ],
+        "synonyms": [],
+        "other_popular_names": [
+            "Amargón",
+            "Chicoria",
+            "Escarola",
+            "Lechuguilla"
+        ],
+        "medical_used_parts": [
+            "Hojas con cabezuelas florales y Raíces"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de Europa en una amplia diversidad de climas. En Guatemala se cultiva en zonas de clima templado por sus raíces y sus hojas para ensaladas o como ornamento en jardines, pero probablemente no esté naturalizada en Centro América.",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "ACHIOTE",
+        "source_pages": [
+            31,
+            32
+        ],
+        "synonyms": [
+            "Bixa acuminata Bijer, B. americana Poir"
+        ],
+        "other_popular_names": [
+            "Aneto",
+            "Bija",
+            "Kuxub",
+            "Ox"
+        ],
+        "medical_used_parts": [
+            "Hojas, raíz y semillas"
+        ],
+        "description": "<description>",
+        "habitat": "Originario de la cuenca amazónica, no se encuentra silvestre, pero se cultiva desde México hasta Bolivia en alturas de 1,000 msnm como vegetación secundaria del bosque tropical perennifolio En Guatemala se cultiva en: Alta Verapaz, Baja Verapaz, Chiquimula, El Progreso, Escuintla, Izabal, Jutiapa, Quezaltenango, Santa Rosa, Suchitepéquez y Zacapa",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "AGASTACHE",
+        "source_pages": [
+            33,
+            34
+        ],
+        "synonyms": [
+            "Lophantus rugosus Fisch. et C.A. Mey."
+        ],
+        "other_popular_names": [
+            "Menta coreana"
+        ],
+        "medical_used_parts": [
+            "Hojas e inflorescencias"
+        ],
+        "description": "<description>",
+        "habitat": "Originaria de India y el sur de Asia, introducida en China, Corea y Japón donde es ampliamente utilizada. Crece en terrenos de clima templado, de altura media. Introducida a Guatemala en 1979, donde se ha adaptado fácilmente en el Altiplano central",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "AJENJO",
+        "source_pages": [
+            35,
+            36
+        ],
+        "synonyms": [],
+        "other_popular_names": [
+            "Alosna",
+            "Té Ruso"
+        ],
+        "medical_used_parts": [
+            "Hojas con sumidades floridas"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa del Viejo Mundo, es ampliamente cultivada en todos los hemisferios. En Guatemala se cultiva en áreas de clima templado de Baja Verapaz, Chimaltenango, Huehuetenango, Quezaltenango, Sacatepéquez, Sololá y San Marcos",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "AJO",
+        "source_pages": [
+            37,
+            38
+        ],
+        "synonyms": [],
+        "other_popular_names": [],
+        "medical_used_parts": [
+            "Bulbos"
+        ],
+        "description": "<description>",
+        "habitat": "Originario de Siberia y domesticado en Asia Central. Diseminado por las tribus nómadas, se ha cultivado y usado en todas las culturas desde hace más de 5,000 años. Introducida en América en el siglo XV. En Guatemala se cultiva en el Altiplano, particularmente en Huehuetenango y Sololá",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "ALBAHACA",
+        "source_pages": [
+            39,
+            40
+        ],
+        "synonyms": [
+            "Ocimum mentafolium L."
+        ],
+        "other_popular_names": [
+            "Albahaca de Castilla",
+            "Cacaltun"
+        ],
+        "medical_used_parts": [
+            "Hojas y sumidades floridas"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de Asia tropical, naturalizada, se encuentra cultivada en todas las regiones tropicales. En Guatemala se cultiva en huertos familiares en todo el país",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "ALBAHACA DE MONTE",
+        "source_pages": [
+            41,
+            42
+        ],
+        "synonyms": [
+            "Ocimum americanum L., O. canum Sims,",
+            "O. campechianum Mill."
+        ],
+        "other_popular_names": [
+            "Albahaca",
+            "Kakaltum"
+        ],
+        "medical_used_parts": [
+            "Hojas y subunidades floridas"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de la América tropical Es de crecimiento silvestre en regiones de clima cálido y húmedo, en Guatemala se ha descrito particularmente en Alta Verapaz, Izabal, Petén y Suchitepéquez",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "ALCACHOFA",
+        "source_pages": [
+            43,
+            44
+        ],
+        "synonyms": [],
+        "other_popular_names": [
+            "Alcaucil"
+        ],
+        "medical_used_parts": [],
+        "description": "<description>",
+        "habitat": "Probablemente de origen mediterráneo. Planta cultivada ampliamente en climas templados de todo el mundo como un alimento de lujo. Aclimatada en áreas templadas del Altiplano de Guatemala, donde se cultiva por su inflorescencia tierna para el mercado local y de exportación",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "ALCOTÁN",
+        "source_pages": [
+            45,
+            46
+        ],
+        "synonyms": [],
+        "other_popular_names": [
+            "Curarina",
+            "Cuxbá",
+            "Cuxogui",
+            "Guaco",
+            "Ixcatú-can",
+            "Oreja de ratón",
+            "Tamagás"
+        ],
+        "medical_used_parts": [
+            "Raíz seca"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de bosques húmedos y secos de América tropical y trópicos del mundo hasta 1,000 msnm. En Guatemala ha sido descrita en la mayoría de departamentos",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "ALTAMIZA",
+        "source_pages": [
+            47,
+            48
+        ],
+        "synonyms": [
+            "Aphanostephus pinulensis Coulter ex Donn.-SM.",
+            "Chrysanthemum parthenium (L.) Bernh. y",
+            "Matricaria parthenium L."
+        ],
+        "other_popular_names": [
+            "Artemisa",
+            "Chusita",
+            "Margarita",
+            "Santa María"
+        ],
+        "medical_used_parts": [
+            "Hojas y flores"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa del sur y centro de Europa. Introducida y cultivada en América y en las regiones montañosas del Caribe. En Guatemala se cultiva en jardines en casi todos los climas, principalmente templados",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "AMARGÓN",
+        "source_pages": [
+            49,
+            50
+        ],
+        "synonyms": [
+            "Leontodon taraxacum L.; Taraxacum dens-leonis",
+            "Desf., T. palustre (Lyons) DC."
+        ],
+        "other_popular_names": [
+            "Achicoria",
+            "Botón de oro",
+            "Diente de león",
+            "Lechuguilla"
+        ],
+        "medical_used_parts": [
+            "Hojas y Raíces"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de Europa y ubicua en el Viejo Continente y Norte América; diseminada por todo el mundo en terrenos secos, praderas, vegas, campos de cultivo y a la orilla de los caminos entre 1,300-3,500 msnm. Se ha descrito en casi todo el país",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "ANÍS",
+        "source_pages": [
+            51,
+            52
+        ],
+        "synonyms": [],
+        "other_popular_names": [
+            "Anix",
+            "Anís verde"
+        ],
+        "medical_used_parts": [
+            "Frutos"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de la región mediterránea y norte de África. Cultivada en varias partes del mundo en clima seco y terreno pedregoso. En Guatemala se cultiva en el altiplano central y occidental, particularmente en Sololá",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "ANÍS ESTRELLA",
+        "source_pages": [
+            53,
+            54
+        ],
+        "synonyms": [
+            "Illicium anisatum L."
+        ],
+        "other_popular_names": [
+            "Anis chino",
+            "Badiana"
+        ],
+        "medical_used_parts": [
+            "Frutos"
+        ],
+        "description": "<description>",
+        "habitat": "Nativo de bosques tropicales y subtropicales de China y el Sudeste asiático. Crece en forma semisilvestre en regiones específicas donde hay un factor ecológico que determina su crecimiento; se ha aclimatado a ciertas regiones de Jamaica y México. Se reproduce por semillas que se obtienen de árboles vigorosos que deben sembrarse rápidamente. De los semilleros se trasplantan a almácigos por varios meses y a los campos de cultivo en 3-5 años. No requiere mayor trabajo agrícola y comienza la producción de frutos a los 10-15 años, pero puede producirlos por más de 100 años. Los frutos se secan al sol o se procesan frescos para obtención del aceite esencial SOS Y PROPIEDADES MEDICINALES U",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "APACÍN",
+        "source_pages": [
+            55,
+            56
+        ],
+        "synonyms": [],
+        "other_popular_names": [
+            "Anamú",
+            "Hierba de Gallinitas",
+            "Ipacina",
+            "Payche",
+            "Zorrillo"
+        ],
+        "medical_used_parts": [
+            "Hojas y raíces"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de México, Caribe, Centro y Sud América. Se encuentra en campos calientes ya sean secos o húmedos, cerca de casas y en terrenos sin cultivar, de 0-1,000 msnm. En Guatemala se ha descrito en la mayoría de departamentos de clima caliente y húmedo",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "APAZOTE",
+        "source_pages": [
+            57,
+            58
+        ],
+        "synonyms": [
+            "Ambrina ambrosioides Spach., A. antihelmintica",
+            "Spach.; Atriplex ambrosioides Crantz, A. antihelmintica",
+            "Crantz; Botrys ambrosioides Nieuwl., B. antihelmintica",
+            "Nieuwl.; Chenopodium ambrosioides L., C.",
+            "antihelminthicum L.; Roubieva antihelmintica H. et A."
+        ],
+        "other_popular_names": [
+            "Epazote",
+            "Much",
+            "Quenopodio",
+            "Siq'uij",
+            "Suuq'an"
+        ],
+        "medical_used_parts": [
+            "Hojas"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa y común de América tropical. Diseminada en climas templado, subtropical y tropical del mundo hasta 2,700 msnm, en bosques de encino y tropicales, pero principalmente en áreas perturbadas. Se ha descrito en casi todo el país",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "BARAJILLO",
+        "source_pages": [
+            59,
+            60
+        ],
+        "synonyms": [
+            "Cassia alata L., Hepatica alata Raf."
+        ],
+        "other_popular_names": [
+            "Barajo",
+            "Bruja",
+            "Majagua",
+            "Moco",
+            "Taratana"
+        ],
+        "medical_used_parts": [
+            "Hojas"
+        ],
+        "description": "<description>",
+        "habitat": "Nativo de bosques húmedos de tierras bajas de Centro América, el Caribe y Sud América; introducida en la India y África Occidental. En Guatemala se ha descrito en tierras costeras de ambos océanos",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "BOLDO",
+        "source_pages": [
+            61,
+            62
+        ],
+        "synonyms": [
+            "Boldea fragans Gay., Boldus boldus (Molina) Lyons,",
+            "B. ragans Juss."
+        ],
+        "other_popular_names": [
+            "Limoncillo"
+        ],
+        "medical_used_parts": [
+            "Hojas"
+        ],
+        "description": "<description>",
+        "habitat": "Arbusto nativo de Sud América, crece abundantemente en la zona central de Chile, sur del Perú, en prados secos, soleados y de clima frío en medio de densos matorrales y fue introducida en Marruecos donde crece bien",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "BOLSA DE PASTOR",
+        "source_pages": [
+            63,
+            64
+        ],
+        "synonyms": [
+            "Thlaspi bursa-pastoris L."
+        ],
+        "other_popular_names": [
+            "Pan y quesillo"
+        ],
+        "medical_used_parts": [
+            "Partes aéreas"
+        ],
+        "description": "<description>",
+        "habitat": "Planta nativa de Europa, considerada cosmopolita por su amplia distribución. Crece en terrenos cultivados o abandonados, campos arenosos, a la orilla de ríos y caminos, de 1,300-3,900 msnm. En Guatemala se ha descrito en Chimaltenango, El Progreso, Guatemala, Huehuetenango, Jalapa, Quetzaltenango, Sacatepéquez y San Marcos",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "BORRAJA",
+        "source_pages": [
+            65,
+            66
+        ],
+        "synonyms": [],
+        "other_popular_names": [],
+        "medical_used_parts": [
+            "Hojas y Semillas"
+        ],
+        "description": "<description>",
+        "habitat": "Planta nativa de Europa y norte de África, naturalizada en varias partes del mundo en regiones templadas. Se cultiva ocasionalmente en climas templados de Mesoamérica en huertos familiares como planta ornamental y medicinal",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "CALAHUALA",
+        "source_pages": [
+            67,
+            68
+        ],
+        "synonyms": [
+            "Phlebodium aureum John Smith",
+            "Polypodium aureum L. , P. areolatum H&B,",
+            "P. calahuala L. y P. leucotomos Poir."
+        ],
+        "other_popular_names": [
+            "Polipodio"
+        ],
+        "medical_used_parts": [
+            "Rizoma"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de Centro América. Crece en troncos de árboles y roca caliza desintegrada, en bosques de gran humedad a la sombra, de México a Sud América en alturas de 500-2,600 msnm En Guatemala se ha descrito en Alta Verapaz, Baja Verapaz, Chimaltenango, Chiquimula, Guatemala, Huehuetenango, Jalapa, Quetzaltenango, Suchitepéquez y Zacapa",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "CALÉNDULA",
+        "source_pages": [
+            69,
+            70
+        ],
+        "synonyms": [],
+        "other_popular_names": [
+            "Botón de oro",
+            "Flor de muerto",
+            "Maravilla",
+            "Marigold"
+        ],
+        "medical_used_parts": [
+            "Capítulos florales y hojas"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de Egipto, espontánea del Mediterráneo europeo, cultivada en Europa desde el siglo XII. Es una creación hortense de razas silvestres. Se cultiva universalmente en jardines de clima templado. En Guatemala se cultiva en el Altiplano central del país",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "CARDAMOMO",
+        "source_pages": [
+            71,
+            72
+        ],
+        "synonyms": [
+            "Amomum cardamomum L., A. repens Sonn."
+        ],
+        "other_popular_names": [],
+        "medical_used_parts": [
+            "Semillas"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de bosques sombreados de India y Ceylán; crece en bosques lluviosos siempre verdes a alturas de 760-1,500 msnm y temperaturas de 10-35°C. En Guatemala se ha aclimatado en la zona norte y s ur, donde se produce para el mercado de exportación.",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "CARDO DE MARIA",
+        "source_pages": [
+            73,
+            74
+        ],
+        "synonyms": [
+            "Cardus marianus L."
+        ],
+        "other_popular_names": [
+            "Cardo lechero",
+            "Cardo Mariano",
+            "Lechal"
+        ],
+        "medical_used_parts": [
+            "Hojas y semillas"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de la región de Kashmir, crece en regiones soleadas de clima caliente y laderas pedregosas, hasta 1,400 msnm. Diseminada al resto de Europa e introducida en Australia y Norte América. En Guatemala se cultiva esporádicamente en el Altiplano central",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "CAULOTE",
+        "source_pages": [
+            75,
+            76
+        ],
+        "synonyms": [
+            "Guazuma polybotrya Cav.; G. tomentosa HBK.,",
+            "G. guazuma (L.) Cockerell; Theobroma guazuma L."
+        ],
+        "other_popular_names": [
+            "Aquiche",
+            "Caca de mico",
+            "Contamal",
+            "Chicharrón",
+            "Guácima",
+            "Pixoy",
+            "Tapaculo",
+            "Xuyuy"
+        ],
+        "medical_used_parts": [
+            "Hojas y corteza"
+        ],
+        "description": "<description>",
+        "habitat": "Nativo de México hasta Sud América y Caribe, en pastos y bosques secundarios de 0-1,200 msnm; introducida en los trópicos de Asia y África. Se encuentra en la mayoría de departamentos de Guatemala",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "CEBADA",
+        "source_pages": [
+            77,
+            78
+        ],
+        "synonyms": [],
+        "other_popular_names": [],
+        "medical_used_parts": [
+            "Semillas"
+        ],
+        "description": "<description>",
+        "habitat": "Especie con una amplia gama de variedades, las que permiten una mejor adaptación y más rendimiento, pero solo se produce en clima frío, no se desarrolla en regiones de alta humedad y elevada temperatura. En Guatemala se cultiva poco en la región del Altiplano occidental en altitudes por arriba de 2,500 msnm",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "CEBOLLA",
+        "source_pages": [
+            79,
+            80
+        ],
+        "synonyms": [],
+        "other_popular_names": [],
+        "medical_used_parts": [
+            "Bulbo y tallo"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de Persia y de regiones adyacentes, cultivada como condimento en todo el mundo. Se cultiva en todo el país, principalmente en Zunil y Almolonga en Quetzaltenango, a orillas del lago de Atitlán y en Aguacatán, Huehuetenango",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "CHALCHUPA",
+        "source_pages": [
+            81,
+            82
+        ],
+        "synonyms": [
+            "Rauwolfia canescens L., R. heterophylla Roem. &",
+            "Schult, R. hirsuta Jacq., R. subpubescens L. y",
+            "R. tomentosa Jacq."
+        ],
+        "other_popular_names": [
+            "Alcotán",
+            "Cabamuc",
+            "Curarina",
+            "Señorita",
+            "Viborilla"
+        ],
+        "medical_used_parts": [
+            "Raíz"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de México, Centro América, Caribe y norte de Sud América en matorrales secos o húmedos, frecuente como crecimiento secundario tropical o maleza en campos abandonados y orilla de caminos de 5002,000 msnm. Se ha descrito en casi todo el país",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "COLA DE CABALLO",
+        "source_pages": [
+            83,
+            84
+        ],
+        "synonyms": [
+            "House et al. 1995.",
+            "Equisetum humboldtianum Fendl."
+        ],
+        "other_popular_names": [
+            "Barba de jolote",
+            "Canutillo",
+            "Carricillo"
+        ],
+        "medical_used_parts": [
+            "Hojas y tallos"
+        ],
+        "description": "<description>",
+        "habitat": "Algunas especies son nativas de Asia y Europa que se han hecho cosmopolitas (E. arvense L.) y otras son nativas de América (E. giganteum). Crecen en lugares húmedos, arenosos y pantanosos, taludes, bordes de caminos, pedregales, hasta 2,000 msnm Se han descrito varias especies en casi todo el país",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "CUASIA",
+        "source_pages": [
+            85,
+            86
+        ],
+        "synonyms": [],
+        "other_popular_names": [
+            "Hombre grande",
+            "Limoncillo",
+            "Palo de hombre",
+            "Amargo"
+        ],
+        "medical_used_parts": [
+            "Madera del tronco y ramas"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de bosques secos o húmedos en laderas con regular penetración de luz, desde el sur de México al norte de Sud América y Brasil hasta los 950 msnm. Cultivada como ornamental en lugares del Caribe y Sud América, introducida y cultivada en la India En Guatemala se ha descrito en Izabal y Santa Rosa",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "CULANTRILLO",
+        "source_pages": [
+            87,
+            88
+        ],
+        "synonyms": [],
+        "other_popular_names": [
+            "Chib",
+            "Culantrillo de pozo"
+        ],
+        "medical_used_parts": [
+            "Partes aéreas (frondes)"
+        ],
+        "description": "<description>",
+        "habitat": "Planta cosmopolita, nativa del sur de Europa, Asia occidental, norte y sur de África tropical, Norte América y América tropical y subtropical Crece espontáneamente en rocas calcáreas, orilla de ríos, cascadas, lugares húmedos y sombreados, bosques templados de 900-2,700 msnm",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "CULANTRO",
+        "source_pages": [
+            89,
+            90
+        ],
+        "synonyms": [],
+        "other_popular_names": [
+            "Cilantro",
+            "Saquil"
+        ],
+        "medical_used_parts": [
+            "Frutos"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de Europa se cultiva en casi todo el mundo en climas templados húmedos en alturas de 900-2,500 msnm. Naturalizado en huertos y jardínes de casi todo el país, particulamente en los clima templado de Alta Verapaz, Chimaltenango, Sacatepéquez, San Marcos, Sololá y Zacapa",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "CUNDEAMOR",
+        "source_pages": [
+            91,
+            92
+        ],
+        "synonyms": [
+            "Cucumis africanus Lindl., Momordica antihelmintica",
+            "Schrumm & Tonn., M. zeilanica Tournef"
+        ],
+        "other_popular_names": [
+            "Balsamina",
+            "Pepinillo",
+            "Sorosi"
+        ],
+        "medical_used_parts": [
+            "Hojas y frutos"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de África, diseminada en América. Presente en cercos y arbustos de áreas disturbadas hasta 1,000 msnm en los trópicos de ambos hemisferios. En Guatemala se ha descrito en ambas costas",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "CÚRCUMA",
+        "source_pages": [
+            93,
+            94
+        ],
+        "synonyms": [
+            "Amomum curcuma Jacq.;",
+            "Curcuma domestica Val., C. rotunda L."
+        ],
+        "other_popular_names": [
+            "Azafrán",
+            "Camotillo",
+            "Tintura de iodo",
+            "Turmeric"
+        ],
+        "medical_used_parts": [
+            "Rizoma"
+        ],
+        "description": "<description>",
+        "habitat": "Hierba de origen índico-malayo del Sur de Asia, crece a 0-1,200 msnm, se cultiva en forma comercial en varios países asiáticos, Perú, Haití, Jamaica y Costa Rica. En Guatemala se cultiva en Alta Verapaz, Izabal, Quiché, Retalhuleu y Suchitepéquez",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "DAMIANA",
+        "source_pages": [
+            95,
+            96
+        ],
+        "synonyms": [
+            "Turnera aphrodisiaca Ward, T. diffusa var.",
+            "aphrodisiaca Urban"
+        ],
+        "other_popular_names": [
+            "Chac-mixib",
+            "Hierba de la pastora",
+            "Mejorana",
+            "Misibcoc"
+        ],
+        "medical_used_parts": [
+            "Hojas"
+        ],
+        "description": "<description>",
+        "habitat": "Arbusto subtropical nativo de Mesoamérica en lugares secos, abiertos, áridos y rocosos, a veces en pendientes calcáreas o bosques de pino-encino desde el norte de México hasta partes de Sud América y el Caribe de 500-1,950 msnm. Se ha descrito en Baja Verapaz, Chiquimula, Huehuetenango y Quiché Arbustos que crecen en forma silvestre en el país, en regiones frías de altura elevada y en las zonas bajas del Petén, por lo que el material de uso medicinal se obtiene por recolección o bien es importado de México. Se recomienda iniciar su conservación, manejo, domesti-cación y cultivo para garantizar su abastecimiento en forma sostenible. Las hojas se recolectan en plena floración y se secan a la sombra Los indios de Norteamérica la empleaban desde tiemSOS Y PROPIEDADES MEDICINALES U",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "ENCINO",
+        "source_pages": [
+            97,
+            98
+        ],
+        "synonyms": [
+            "Qa = Q. ambivenulosa Trelease, Q. longifolia Liebm.",
+            "Qc= Q. correpta Trelease; Qp = Q. aguana Trelease,",
+            "Q. arachnoidea Trelaese, Q. barbeyana Trelease;",
+            "Qs = Q. grandis Benth., Q. chiapensis Trelease"
+        ],
+        "other_popular_names": [
+            "Bans",
+            "Chicharro",
+            "Col",
+            "Huite",
+            "Masket",
+            "Malcote",
+            "Pitán",
+            "Roble",
+            "Sical",
+            "Sunuj",
+            "Zinuh"
+        ],
+        "medical_used_parts": [
+            "Corteza"
+        ],
+        "description": "<description>",
+        "habitat": "Q. acatenangensis, colinas de arena blanca y bosques mixtos de 1,500-3,300 msnm; Q. conspersa, bosque mixto en colinas secas o húmedas de 900-2,700 msnm; Q. peduncularis, planicies y colinas secas o húmedas con pinos de 900-3,000 msnm; Q. skinneri, bosque montañoso húmedo o seco de 900-2,100 msnm; todas descritas en el Altiplano y Nororiente.",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "EUCALIPTO",
+        "source_pages": [
+            99,
+            100
+        ],
+        "synonyms": [],
+        "other_popular_names": [],
+        "medical_used_parts": [
+            "Hojas"
+        ],
+        "description": "<description>",
+        "habitat": "Árboles nativos de Australia y Tasmania, se conocen más de 500 especies. En el continente americano se cultiva con fines de reforestación en climas tropicales y templados desde California hasta Argentina. En Guatemala, E. citriodora se cultiva en clima subtropical de 100-1,500 msnm y E. globulus en clima templado de 1,500-2,700 msnm Descubierto en Australia a fines del siglo XVII. Las primeras especies fueron introducidas en América a BTENCIÓN O 99 EUCALIPTO",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "FENOGRECO",
+        "source_pages": [
+            101,
+            102
+        ],
+        "synonyms": [],
+        "other_popular_names": [
+            "Alholva"
+        ],
+        "medical_used_parts": [
+            "Semillas"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa del sudeste de Europa y oeste de Asia. Se cultiva comercialmente en Argentina, India, Egipto, Pakistán y países mediterráneos. Se ha aclimatado en el Altiplano del país y algunas otras regiones",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "GRANADILLA",
+        "source_pages": [
+            103,
+            104
+        ],
+        "synonyms": [],
+        "other_popular_names": [
+            "Carnat",
+            "Cranix",
+            "Granadilla real",
+            "Pasionaria"
+        ],
+        "medical_used_parts": [
+            "Hojas y Flores"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de Guatemala, se encuentra en bosques mixtos, húmedos o secos, desde el sur de México, Centro y Sur América, en alturas de 900-1,500 msnm. Se ha descrito o se cultiva en Alta Verapaz, Baja Verapaz, Chimaltenango, Huehuetenango, Jalapa, Quetzaltenango, Sacatepéquez y San Marcos",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "GRANADO",
+        "source_pages": [
+            105,
+            106
+        ],
+        "synonyms": [
+            "Malus punica, Punicum malum"
+        ],
+        "other_popular_names": [
+            "Granada"
+        ],
+        "medical_used_parts": [
+            "Epicarpio del fruto y Corteza de la raiz"
+        ],
+        "description": "<description>",
+        "habitat": "Nativo del sur de Asia, cultivado en Asia y en la región Mediterránea, naturalizado en partes áridas de Norte América y en regiones tropicales y subtropicales de América Latina hasta 1,800 msnm Se cultiva en casi todo el país excepto en regiones muy altas.",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "GUAYABO",
+        "source_pages": [
+            107,
+            108
+        ],
+        "synonyms": [
+            "Psidium pyriferum L., P. pomiferum L."
+        ],
+        "other_popular_names": [
+            "Cak",
+            "Ch'amxuy",
+            "Coloc",
+            "Ikiec",
+            "Guava",
+            "Pataj",
+            "Pichi",
+            "Posh"
+        ],
+        "medical_used_parts": [
+            "Hojas y Corteza"
+        ],
+        "description": "<description>",
+        "habitat": "Nativo de América tropical, en bosques húmedos y secos; sembrado comercialmente en zonas cálidas de África y Asia hasta 1,800 msnm. Se han descrito variedades en todo el país, especialmente en Baja Verapaz, Chiquimula, Jutiapa y Santa Rosa",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "HIERBA DEL CÁNCER",
+        "source_pages": [
+            109,
+            110
+        ],
+        "synonyms": [],
+        "other_popular_names": [
+            "Borreguillo",
+            "Ccul",
+            "Corrimiento",
+            "Gusanillo",
+            "Sajoi"
+        ],
+        "medical_used_parts": [
+            "Hojas y flores"
+        ],
+        "description": "<description>",
+        "habitat": "A. arvensis es nativa del sur de México a Sud América en matorrales y riveras hasta 1,500 msnm; descrita en la mayoría del país A. guatemalensis es nativa de Guatemala, común en terrenos removidos, secos o húmedos, campos de cultivo y vegetación de 750-2,500 msnm; descrita en Baja Verapaz, Chimaltenango, Guatemala, Huehuetenango, Jalapa, Quetzaltenango, Quiché, Santa Rosa, Sacatepéquez y Sololá",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "HIERBA DEL GATO",
+        "source_pages": [
+            111,
+            112
+        ],
+        "synonyms": [],
+        "other_popular_names": [
+            "Catnip",
+            "Nebeda"
+        ],
+        "medical_used_parts": [
+            "Hojas"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa del norte de Eurasia, en taludes, terrenos baldíos y bordes de caminos, crece subespontánemente en varios lugares. Naturalizada en el noreste de los Estados Unidos y Canadá; en Guatemala se introdujo por semilla en el Altiplano central donde existe una producción eventual",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "HIERBA DEL TORO",
+        "source_pages": [
+            113,
+            114
+        ],
+        "synonyms": [
+            "Balbisia elongata Willd.; Tridax procumbens var.",
+            "ovatifolia Robins & Greenm."
+        ],
+        "other_popular_names": [
+            "Bakenbox",
+            "Cadillo",
+            "Chisaaca",
+            "Curagusano",
+            "Hierba de",
+            "San Juan",
+            "Romerillo",
+            "San Juan del Monte"
+        ],
+        "medical_used_parts": [
+            "Hierba (partes aéreas)"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de México y Centro América, se encuentra en lugares húmedos o secos, en campos de maleza y praderas, en suelo cubierto de arena a la orillas de arroyos o caminos o suelos cultivados hasta 2,300 msnm; introducida en Sur América, Caribe, África y Asia. Se ha descrito en casi todo el país las La planta se obtiene por recolección en los campos de crecimiento silvestre en regiones cálidas y húmedas del país. Se recomienda su manejo o cultivo para garantizar su aprovisionamiento sostenido. Su propagación se hace por semillas y se siembra en lugares a pleno sol. Se colectan las hojas y flores durante la fructificación y se secan rápidamente a la sombra SOS Y PROPIEDADES MEDICINALES U",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "HIERBA LUISA",
+        "source_pages": [
+            115,
+            116
+        ],
+        "synonyms": [
+            "Aloysia triphylla (L'Herit) Britt., Lippia citriodora (L.)",
+            "HBK y L. triphylla Kuntze, Verbena triphylla L'Herit"
+        ],
+        "other_popular_names": [
+            "Cedrón",
+            "Te María Luisa",
+            "Verbena olorosa"
+        ],
+        "medical_used_parts": [
+            "Hojas"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de América del Sur. Se cultiva en jardines en climas subtemplado y subtropicales de América Latina y el Caribe; cultivada comercialmente en regiones mediterráneas de Europa y África En Guatemala se cultiva en el Altiplano Central",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "HIERBABUENA",
+        "source_pages": [
+            117,
+            118
+        ],
+        "synonyms": [
+            "Mentha viridis L."
+        ],
+        "other_popular_names": [
+            "Alavina",
+            "Arvino",
+            "Menta dulce",
+            "Pan sut",
+            "Yerba buena"
+        ],
+        "medical_used_parts": [
+            "Hojas"
+        ],
+        "description": "<description>",
+        "habitat": "Origen desconocido posiblemente europeo, ampliamente naturalizada en lugares soleados, húmedos y templados de Europa y Norte América de 1,500-2,700 msnm. Cultivada en el Altiplano central en huertos y jardines familiares",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "HINOJO",
+        "source_pages": [
+            119,
+            120
+        ],
+        "synonyms": [
+            "Anethum foeniculum L.; Foeniculum officinale All."
+        ],
+        "other_popular_names": [
+            "Eneldo (erróneamente)"
+        ],
+        "medical_used_parts": [
+            "Hojas, raices y frutos"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de la región mediterránea y sur de Europa, se conocen varias subespecies que tienen diferentes propiedades organolépticas y que son cultivadas en varias regiones del mundo. Cultivada en Guatemala en zonas de clima cálido del Altiplano central Requiere suelo drenado, soleado, arcilloso, deshierbado. Se propaga por semilla que se siembra a poca profundidad; fertilizar orgánica y químicamente; la irrigación es necesaria a la siembra y cada 7-15 días. La maduración es irregular, hay desperdicio de semillas el primer año; para disminuir las pérdidas, quebrar los tallos y a los 14 días hacer el corte definitivo Los frutos se colectan antes de madurar y se secan al sol; las raíces se desentierran antes de las lluvias y se secan a la sombra Varias semillas parecidas al hinojo se mencionan en el los Pen Tsao como aromáticas y medicinales; SOS Y PROPIEDADES MEDICINALES U",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "IXBUT",
+        "source_pages": [
+            121,
+            122
+        ],
+        "synonyms": [
+            "Poinsettia lancifola KL. & Garke."
+        ],
+        "other_popular_names": [
+            "Besmut",
+            "Hierba Lechera",
+            "Sapillo"
+        ],
+        "medical_used_parts": [
+            "Hojas y tallos"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de bosques secos, a veces bosques de pino, sabanas o en campos abiertos a 600-1,900 msnm, del sur de México y Belice hasta Costa Rica; introducida en el Caribe y Colombia. Se ha descrito en Alta Verapaz, Guatemala, Huehuetenango, Izabal, Petén, Quetzaltenango, Quiché, Sacatepéquez, San Marcos, Santa Rosa y Suchitepéquez",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "JACARANDA",
+        "source_pages": [
+            123,
+            124
+        ],
+        "synonyms": [
+            "Jacaranda acutifolia Humb. & Bonpl.,",
+            "J. chelonia Griseb. y J. ovalifolia R. Br."
+        ],
+        "other_popular_names": [
+            "Gigante",
+            "Q’ojom ché"
+        ],
+        "medical_used_parts": [
+            "Hojas y flores"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de Sur América, desde Colombia hasta Argentina, cultivada en regiones tropicales y subtropicales hasta 1,500 msnm Se ha descrito en casi todos los departamentos de Guatemala",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "JENGIBRE",
+        "source_pages": [
+            125,
+            126
+        ],
+        "synonyms": [
+            "Amomum zingiber L."
+        ],
+        "other_popular_names": [],
+        "medical_used_parts": [
+            "Rizoma"
+        ],
+        "description": "<description>",
+        "habitat": "Nativo de zonas costeras de la India y China, cultivada en regiones tropicales y subtropicales, de clima caliente y húmedo. Naturalizada en América, donde se cultiva como adorno y por su rizoma",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "LAUREL",
+        "source_pages": [
+            127,
+            128
+        ],
+        "synonyms": [
+            "Litsea acuminatissima Lundell, L. matudau Lundell;",
+            "Tetranthera glaucescens var. subsolitaria Maissn."
+        ],
+        "other_popular_names": [
+            "Aguarel",
+            "Laurelillo",
+            "Spac-tzé",
+            "Sufricalla",
+            "Zit-zuch"
+        ],
+        "medical_used_parts": [
+            "Hojas"
+        ],
+        "description": "<description>",
+        "habitat": "L. glaucescens es nativo de México y Centro América; se ha descrito en Alta Verapaz, Baja Verapaz, Huehuetenango, Quetzaltenango, San Marcos y Zacapa. L. guatemalensis es endémico de Guatemala, crece en bosques abiertos de pino y matorrales de 1,500-3,150 msnm; descrito en Chimaltenango, Guatemala, Jalapa, Sacatepéquez y Sololá",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "LIMÓN",
+        "source_pages": [
+            129,
+            130
+        ],
+        "synonyms": [
+            "Citrus acida Roxb., C. lima Lunan, C. limonia Osbeck;",
+            "Limonia aurantifolia Christm."
+        ],
+        "other_popular_names": [
+            "Limón criollo",
+            "Limón mexicano"
+        ],
+        "medical_used_parts": [
+            "Frutos"
+        ],
+        "description": "<description>",
+        "habitat": "Nativo del archipiélago indo-malayo, naturalizado y cultivado en climas cálidos, tropicales y subtropicales; se cultiva en el sur y norte del país, especialmente en Baja Verapaz, Escuintla, El Progreso, Suchitepéquez y Zacapa",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "LINAZA",
+        "source_pages": [
+            131,
+            132
+        ],
+        "synonyms": [],
+        "other_popular_names": [
+            "Flax",
+            "Lino"
+        ],
+        "medical_used_parts": [
+            "Semillas"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de Asia, cultivada extensivamente en Europa y Norte América. Se ha aclimatado a Sud América y Centro América donde se cultiva en pequeña escala. Crece fácilmente a partir de semilla. Se cultiva en el Altiplano central y las Verapaces Crece mejor en suelo ligero, bien drenado, pleno sol, es fácil de propagar por semillas. Sembrar directamente en terreno trabajado, mantener libre de hierbas, las raíces son muy delicadas. No fertilizar hasta que la planta esté bien desarrollada; la atacan grillos y algunos gusanos. La fibra y semillas se colectan juntas al inicio de la floración, dejar madurar en el tallo y luego secar al sol. Guardar en recipientes herméticos, ya que las semillas son susceptibles a la humedad. El cultivo data de 7,000 años en Babilonia y 5,000 en Europa. Por su fibra es usado desde las poblaciones SOS Y PROPIEDADES MEDICINALES U",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "LIQUIDAMBAR",
+        "source_pages": [
+            133,
+            134
+        ],
+        "synonyms": [
+            "Liquidambar macrophylla Oerst."
+        ],
+        "other_popular_names": [
+            "Diquidambo",
+            "Estoraque",
+            "Lesquin",
+            "Ocom",
+            "Ocop",
+            "Ocozol",
+            "Quiramba",
+            "Trementina de pino",
+            "Tzoté"
+        ],
+        "medical_used_parts": [
+            "Corteza y resina"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de bosques mixtos húmedos o secos, principalmente en laderas de montañas o a lo largo del cauce de ríos, frecuentemente asociados con bosques de pino y encino, se encuentra desde el sur de los Estados Unidos hasta Nicaragua en alturas de 9002,100 msnm. En Guatemala se ha descrito en Alta Verapaz, Baja Verapaz, Chiquimula, El Progreso, Huehuetenango, Izabal, Quiché y Zacapa",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "LLANTÉN",
+        "source_pages": [
+            135,
+            136
+        ],
+        "synonyms": [],
+        "other_popular_names": [
+            "Cola de Ardilla",
+            "Lantén",
+            "Ractzi"
+        ],
+        "medical_used_parts": [
+            "Hojas"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de Eurasia, convertida en maleza universal; abunda en el subtrópico entre 600-1,800 msnm. Naturalizada en Alta Verapaz, Chimaltenango, Guatemala, Quetzaltenango, Sacatepéquez y Santa Rosa",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "MADRECACAO",
+        "source_pages": [
+            137,
+            138
+        ],
+        "synonyms": [
+            "Robinia rosea Mill.; R. maculata HBK; R. variegata",
+            "Schlecht; R. sepium Jacq.; Lonchocarpus maculatus",
+            "DC;Gliricidia maculata Steud.; G. lambii Fernald."
+        ],
+        "other_popular_names": [
+            "Kante",
+            "Kansim",
+            "Madriado",
+            "Matasarna",
+            "Sacyab",
+            "Yaite"
+        ],
+        "medical_used_parts": [
+            "Hojas"
+        ],
+        "description": "<description>",
+        "habitat": "Nativo de la América tropical, crece en laderas hasta 1,600 msnm, se ha introducido y se cultiva en todo el mundo tropical. Se ha descrito en la mayoría de regiones cálidas del país",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "MAÍZ",
+        "source_pages": [
+            139,
+            140
+        ],
+        "synonyms": [],
+        "other_popular_names": [
+            "Elote",
+            "Ixim"
+        ],
+        "medical_used_parts": [
+            "Estigmas y granos"
+        ],
+        "description": "<description>",
+        "habitat": "Crece en clima cálido, templado o frío, con temperaturas entre 18-25°C, precipitación pluvial variable y alturas de 03,000 msnm. Se cultiva en todo el país.",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "MALVA",
+        "source_pages": [
+            141,
+            142
+        ],
+        "synonyms": [],
+        "other_popular_names": [
+            "Malva de Castilla"
+        ],
+        "medical_used_parts": [
+            "Hojas y flores"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de Europa, ampliamente naturalizada en climas templados y subtropicales de ambos hemisferios. Común desde Nuevo México hasta Argentina y Chile en alturas de 1,200-3,800 msnm. Se ha descrito en forma naturali-zada en Alta Verapaz, Chimaltenango, Guatemala, Huehuetenango, Jalapa, Quetzaltenango, Sacatepéquez y San Marcos",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "MANITA",
+        "source_pages": [
+            143,
+            144
+        ],
+        "synonyms": [
+            "Cheirostemon platanoides Humb. & Bonpl.",
+            "Chiranthodendron platanoides Baill."
+        ],
+        "other_popular_names": [
+            "Cacpalxochitl",
+            "Canac",
+            "Flor de manita",
+            "Majagua",
+            "Mano",
+            "de león",
+            "Mano de mico",
+            "Mapilxochitl",
+            "Palo de tayyo",
+            "Papasuchil",
+            "Ranac",
+            "Tayuyo",
+            "Teyagua"
+        ],
+        "medical_used_parts": [
+            "Flores"
+        ],
+        "description": "<description>",
+        "habitat": "Nativo del sur de México a Honduras, crece en bosques mixtos húmedos, montañosos entre 2,000-3,000 msnm o en terrenos desmontados. Descrito en Chimaltenango, El Progreso, El Quiché, Guatemala, Huehuetenango, Quetzaltenango, Sacatepéquez, San Marcos, Sololá, Totonicapán y Zacapa",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "MANZANILLA",
+        "source_pages": [
+            145,
+            146
+        ],
+        "synonyms": [
+            "Chamomilla recutita Rausch.; Matricaria chamomilla L."
+        ],
+        "other_popular_names": [
+            "Camomila",
+            "Matricaria"
+        ],
+        "medical_used_parts": [
+            "Flores"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de Europa mediterránea; naturalizada en todo el mundo en clima templado de 600-2,400 msnm. Naturalizada en Guatemala, se cultiva en varias zonas de clima templado pero soleado, hasta 3,900 msnm",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "MARACUYÁ",
+        "source_pages": [
+            147,
+            148
+        ],
+        "synonyms": [
+            "Passiflora diadem Vell., P. idocarina Barb., P.",
+            "pallidiflora Bert., P. rigidula Jacq., P. verrucifera Lindl."
+        ],
+        "other_popular_names": [
+            "Granadilla",
+            "granadilla silvestre"
+        ],
+        "medical_used_parts": [
+            "Hojas, flores y frutos"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa del Brasil y norte de Argentina. Crece en climas subtropicales húmedos, de 630-1,300 msnm. Raramente plantada en Guatemala en las tierras bajas de ambos océanos y quizá se ha naturalizado ocasionalmente",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "MARRUBIO",
+        "source_pages": [
+            149,
+            150
+        ],
+        "synonyms": [],
+        "other_popular_names": [
+            "Amor seco"
+        ],
+        "medical_used_parts": [
+            "Hojas con sumidades floridas"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de Europa y Asia, ampliamente naturalizada en Estados Unidos y México en bancos secos abiertos, hasta 2,550 msnm. En Guatemala se cultiva en Chimaltenango, Sacatepéquez, Sololá y Totonicapán",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "MATASANO",
+        "source_pages": [
+            151,
+            152
+        ],
+        "synonyms": [
+            "Fagara bombacifolia Krug. et Urb., Zanthoxylum",
+            "araliaceum Turcz. y Z. bombaxifolium A. Rich."
+        ],
+        "other_popular_names": [
+            "Ajachel",
+            "Matasán",
+            "Zapote Blanco"
+        ],
+        "medical_used_parts": [
+            "Semillas"
+        ],
+        "description": "<description>",
+        "habitat": "Nativo de México a Costa Rica, introducido en otras regiones subtropicales del continente como en bosque caducifolio o pino-encino entre 600-2,700 msnm Se ha descrito en casi todo el país",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "MEJORANA",
+        "source_pages": [
+            153,
+            154
+        ],
+        "synonyms": [
+            "Ageratum microcarpum Hemsl., Alomia microcarpa",
+            "Rob., A. pinetotum L. Wms., Phalacrea coelestina",
+            "Hort. y Coelestina microcarpa Benth. ex Oersted"
+        ],
+        "other_popular_names": [
+            "Celestina",
+            "Flor noble",
+            "Hierba de chucho",
+            "Retentina"
+        ],
+        "medical_used_parts": [
+            "Hojas"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa y frecuente de bosques húmedos y secos de América tropical y el Caribe, en pastizales, pinares, praderas y campos de cultivo hasta 900 msnm e inclusive hasta 2,000 msnm; introducida en los trópicos del Viejo Mundo. Se ha descrito en la mitad del país",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "MELISA",
+        "source_pages": [
+            155,
+            156
+        ],
+        "synonyms": [],
+        "other_popular_names": [
+            "Cedrón",
+            "Citronela",
+            "Hierba Luisa",
+            "Toronjil"
+        ],
+        "medical_used_parts": [
+            "Hojas"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de la región mediterránea y África del Norte en clima templado en alturas hasta 1,000 msnm; introducida en América como cultivo comercial naturalizado. Se cultiva en huertos mixtos y jardines familiares del Altiplano central del país",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "MENTA",
+        "source_pages": [
+            157,
+            158
+        ],
+        "synonyms": [],
+        "other_popular_names": [
+            "Hierbabuena de menta",
+            "Piperita"
+        ],
+        "medical_used_parts": [
+            "Hojas"
+        ],
+        "description": "<description>",
+        "habitat": "Crece en varias condiciones climáticas, lluvia regular en época de crecimiento, soleado en época de corte, climas templados hasta 1,500 msnm, algunas variedades crecen en clima subtropical a 1,000 msnm. Se ha naturalizado en partes del Altiplano occidental, donde se cultiva en terrenos húmedos y sombreados",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "MILENRAMA",
+        "source_pages": [
+            159,
+            160
+        ],
+        "synonyms": [
+            "Achillea lanulosa Nutt., A. pecten-veneris Pollard"
+        ],
+        "other_popular_names": [
+            "Milhojas",
+            "Plumajillo",
+            "Alhucema",
+            "Cola de ardilla",
+            "Hierba del soldado",
+            "Milhojas",
+            "Plumajillo"
+        ],
+        "medical_used_parts": [
+            "Hojas y flores"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa del norte de Europa y Asia, adaptada a climas templados del mundo, se considera subcosmopolita. Naturalizada en climas templados del norte entre 1,800-2,500 msnm o cultivada en jardines",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "MILTOMATE",
+        "source_pages": [
+            161,
+            162
+        ],
+        "synonyms": [
+            "P. philadelphica var. pilosa Waterfall, P. ixocarpa Brot.",
+            "P. laevigata Mart.;"
+        ],
+        "other_popular_names": [
+            "Huevito",
+            "Santo Tomás",
+            "Tomatillo"
+        ],
+        "medical_used_parts": [
+            "Cáliz y hojas"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de Mesoamérica, se ha aclimatado en el Caribe, en campos cultivados y bosques de pinoencino arriba de 1,830 msnm. Se ha descrito en Alta Verapaz, Baja Verapaz, Chimaltenango, Chiquimula, Escuintla, Guatemala, Izabal, Huehuetenango, Jalapa, Jutiapa, Quiché, Sacatepéquez y Sololá",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "MORRO",
+        "source_pages": [
+            163,
+            164
+        ],
+        "synonyms": [
+            "C. acuminata HBK; C. arborea Rafinesque; C.",
+            "cuneifolia Gardner; C. angustifolia Willd. ex Seemann;",
+            "C. fasciculata Miers; C. plectantha Miers; C.",
+            "spathulata Miers"
+        ],
+        "other_popular_names": [
+            "Güira",
+            "Hom",
+            "Huaz",
+            "Jícara",
+            "Mimbre",
+            "Mulul",
+            "Totumo",
+            "Xi"
+        ],
+        "medical_used_parts": [
+            "Fruto"
+        ],
+        "description": "<description>",
+        "habitat": "Nativo de México, norte de Centro América y el Caribe; cultivado en regiones tropicales secas a menos de 500 msnm. Se ha descrito en Alta y Baja Verapaz, Escuintla, Izabal, Petén, Quetzaltenango, Quiché, Retalhuleu, Santa Rosa, San Marcos y Suchitepéquez",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "MUÉRDAGO",
+        "source_pages": [
+            165,
+            166
+        ],
+        "synonyms": [
+            "Viscum europaeum"
+        ],
+        "other_popular_names": [
+            "Liga",
+            "Ligamatapalo",
+            "Matapalo",
+            "Nigüita"
+        ],
+        "medical_used_parts": [
+            "Hojas"
+        ],
+        "description": "<description>",
+        "habitat": "Parásita que crece en árboles deciduos (peral, manzano) del norte de Europa en zonas montañosas.",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "NANCE",
+        "source_pages": [
+            167,
+            168
+        ],
+        "synonyms": [
+            "Byrsonima cinerea Dec., B. cotinifolia HBK, B.cubensis",
+            "Juss., B. ferruginea Kunth., B. karwinskiana Juss., B.",
+            "pulchra DC., B. rufescens Bertol., B. laurifolia HBK.",
+            "var. guatemalensis Niedenzu, Malpighia crassifolia L."
+        ],
+        "other_popular_names": [
+            "Chi",
+            "Craboo",
+            "Nanche",
+            "Nanzin",
+            "Tapal",
+            "Zacpah"
+        ],
+        "medical_used_parts": [
+            "Corteza"
+        ],
+        "description": "<description>",
+        "habitat": "Nativo de México a Sur América y Caribe en bosques secos y tropicales hasta 1,800 msnm. Se ha descrito en la mayoría de zonas cálidas de Guatemala",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "NARANJA AGRIA",
+        "source_pages": [
+            169,
+            170
+        ],
+        "synonyms": [
+            "Citrus vulgaris Risso, C. bigardia Loisel."
+        ],
+        "other_popular_names": [
+            "Naranja ácida",
+            "Naranja amarga",
+            "Naranja de Sevilla"
+        ],
+        "medical_used_parts": [
+            "Hojas, flores y pericarpio"
+        ],
+        "description": "<description>",
+        "habitat": "Nativo del sudeste asiático; comercialmente cultivado en los trópicos y subtrópicos de ambos hemisferios. En Guatemala se cultiva en Baja Verapaz, Escuintla, Santa Rosa, Suchitepéquez y Zacapa",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "ORÉGANO",
+        "source_pages": [
+            171,
+            172
+        ],
+        "synonyms": [],
+        "other_popular_names": [
+            "Mejorana",
+            "Orégano de Castilla"
+        ],
+        "medical_used_parts": [
+            "Hojas y sumidades floridas"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de Europa en suelos calcáreos y silíceos de clima caliente o templado, en pastizales pobres y a la orilla de caminos hasta 3,000 msnm. En Guatemala se cultiva en huertos y jardínes del Altiplano central.",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "ORÉGANO MEXICANO",
+        "source_pages": [
+            173,
+            174
+        ],
+        "synonyms": [
+            "Lantana origanoides Mart. & Gal., L. berlandieri",
+            "Schauer in DC, Goniostachyum graveolens Small"
+        ],
+        "other_popular_names": [
+            "Orégano de monte"
+        ],
+        "medical_used_parts": [
+            "Hojas"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa del sur de Texas a Nicaragua, se encuentra en bosques secos y montes espinosos subtropicales, en pendientes pedregosas muy secas, en matorrales húmedos o secos y planicies hasta 350 msnm. Se ha descrito en Chiquimula, El Progreso y Zacapa 2,",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "OROZÚS",
+        "source_pages": [
+            175,
+            176
+        ],
+        "synonyms": [
+            "Lippia dulcis Trev..; L. scaberrima Mold.; Phyla",
+            "scaberrima (A.L.Juss) Moldenke; Zapania scaberrima",
+            "Juss. ex Pers."
+        ],
+        "other_popular_names": [
+            "Orozul",
+            "Hierba Dulce"
+        ],
+        "medical_used_parts": [
+            "Hojas"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa del sur de México a Panamá se encuentra a la orilla de bosques o riveras de ríos, terrenos abiertos y pastizales en alturas hasta de 1,800 msnm; introducida en Sur América y el Caribe. Se ha descrito en Alta Verapaz, Chimaltenango, Chiquimula, Guatemala, Petén, Retalhuleu, Quezaltenango, Sacatepéquez, Santa Rosa, Sololá y Zacapa",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "ORTIGA",
+        "source_pages": [
+            177,
+            178
+        ],
+        "synonyms": [],
+        "other_popular_names": [
+            "Chichicaste"
+        ],
+        "medical_used_parts": [
+            "Hojas y raíces"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de regiones templadas de Europa y Asia donde crece en forma silvestre a la vera de los ríos y terrenos abandonados; ampliamente distribuída en el resto del mundo. Se ha aclimatado o naturalizado a terrenos humíferos de regiones templadas del Altiplano",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "PALO JIOTE",
+        "source_pages": [
+            179,
+            180
+        ],
+        "synonyms": [
+            "Bursera gummifera L.; B. ovalifolia Engler; Elaphrium",
+            "ovalifolium Schlecht.; E. simaruba (L) Rose; E.",
+            "subpubescens Rose; Pistacia simaruba L.; Terebinthus",
+            "arborea Rose; T. acuminata Rose, T. attenuata Rose"
+        ],
+        "other_popular_names": [
+            "Almácigo",
+            "Chacah",
+            "Chino",
+            "Chinacahuite",
+            "Ginicuite",
+            "Indio desnudo",
+            "Jiote",
+            "Solpiem",
+            "Xacago-que"
+        ],
+        "medical_used_parts": [
+            "Corteza"
+        ],
+        "description": "<description>",
+        "habitat": "Nativo de América tropical, del sur de México al norte de Sud América y el Caribe hasta 1,800 msnm, en bosques secos y húmedos tropicales. Se ha descrito en casi toda Guatemala",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "PARAÍSO BLANCO",
+        "source_pages": [
+            181,
+            182
+        ],
+        "synonyms": [
+            "Moringa oleifera Lam.; M. moringa Millsp. Guilandina",
+            "moringa Lam., Hyperanthera moringa Willd."
+        ],
+        "other_popular_names": [
+            "Arango",
+            "Badumbo",
+            "Brotón",
+            "Caragua",
+            "Caraño",
+            "Marengo",
+            "Moringa",
+            "Perlas",
+            "Teberindo"
+        ],
+        "medical_used_parts": [
+            "Semillas"
+        ],
+        "description": "<description>",
+        "habitat": "Originario del Himalayas, se cultiva en varios paí-ses tropicales hasta 1,200 msnm, se ha adaptado a regiones desérticas como el Sahara En Guatemala es cultivado en clima cálido y seco, se ha naturalizado en varios departamentos",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "PERICÓN",
+        "source_pages": [
+            183,
+            184
+        ],
+        "synonyms": [
+            "Tagetes florida Sweet y T. schiedeana Less."
+        ],
+        "other_popular_names": [
+            "I'yá",
+            "Hierba anis",
+            "Jolomocox",
+            "Ucá"
+        ],
+        "medical_used_parts": [
+            "Hojas, fruto, flores, semillas"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de México a Honduras en bosques de encino y laderas de 1,000-2,000 msnm. Es abundante en la época de lluvia, desaparece en época seca. Se ha descrito en Chimaltenango, El Quiché, Jalapa, Guatemala, Huehuetenango, Petén, Quezaltenango, Sacatepéquez y San Marcos",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "QUILETE",
+        "source_pages": [
+            185,
+            186
+        ],
+        "synonyms": [
+            "S. americanum: S. nodiflorum Jacq.",
+            "S. nigrescens: S. douglasii Dunal., S. oligospermum",
+            "Bitter"
+        ],
+        "other_popular_names": [
+            "Macuy",
+            "Hierba mora",
+            "Imut"
+        ],
+        "medical_used_parts": [
+            "Hojas"
+        ],
+        "description": "<description>",
+        "habitat": "S. americanum es nativa de América, crece en matorrales y sembradíos, se ha descrito en casi toda Guatemala a 350-1,500 msnm S. nigrescens es nativa de México a Costa Rica, crece en matorrales y bosques mixtos, se ha descrito en el Altiplano en alturas de 1,500-3,900 msnm",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "RICINO",
+        "source_pages": [
+            187,
+            188
+        ],
+        "synonyms": [],
+        "other_popular_names": [
+            "Aceite",
+            "Higuerillo",
+            "Ixcoch",
+            "Raxten"
+        ],
+        "medical_used_parts": [
+            "Hojas y aceite de semillas"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de trópicos del Viejo Mundo, África o India, naturalizada en todas las regiones tropicales del mundo. Cultivada o espontánea en bosques, planicies y laderas, en sitios abiertos, orillas de caminos y riveras de ríos. Descrita en todo el país hasta 2,000 msnm",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "ROMERO",
+        "source_pages": [
+            189,
+            190
+        ],
+        "synonyms": [],
+        "other_popular_names": [],
+        "medical_used_parts": [
+            "Hojas y flores"
+        ],
+        "description": "<description>",
+        "habitat": "Nativo de la cuenca mediterránea hasta 1,500 msnm en lugares abrigados, se cultiva comercialmente en Europa y Norte América en clima templado Introducido en América en clima templado y seco en alturas variables. En Guatemala, se cultiva en el Altiplano y Norte del país",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "ROSA DE JAMAICA",
+        "source_pages": [
+            191,
+            192
+        ],
+        "synonyms": [
+            "Hibiscus cruentus Bertol."
+        ],
+        "other_popular_names": [
+            "Hibisco",
+            "Jamaica",
+            "Karkadé",
+            "Roselle",
+            "Sorrel"
+        ],
+        "medical_used_parts": [
+            "Cálices"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de India Oriental o Angola, naturalizada como maleza en América tropical, se cultiva en grandes extensiones en Africa Central, Sudán, México e India. Se cultiva en tierras bajas de Baja Verapaz, El Progreso, Izabal, Huehuetenango y Santa Rosa",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "RUDA",
+        "source_pages": [
+            193,
+            194
+        ],
+        "synonyms": [
+            "Ruta chalepensis var. angustifolia Hook."
+        ],
+        "other_popular_names": [
+            "Rora",
+            "Ru"
+        ],
+        "medical_used_parts": [
+            "Hojas"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa del Mediterráneo y Asia Menor; introducida y cultivada en la mayor parte del continente americano y el Caribe. Se cultiva en huertos y jardines familiares de todo el país, principalmente en las regiones del altiplano de clima templado y en las Verapaces",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "SÁBILA",
+        "source_pages": [
+            195,
+            196
+        ],
+        "synonyms": [
+            "Aloe barbadensis Mil., A. perfoliata L., A. vulgaris Lam."
+        ],
+        "other_popular_names": [
+            "Zábila"
+        ],
+        "medical_used_parts": [
+            "Hojas y parénquima (gel)"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de la región mediterránea, norte de Africa o del Nilo, se cultiva en altura de 400-2,500 msnm. Introducida en América donde es cultivada en la cuenca del Caribe. En Guatemala, se encuentra plantada en algunos lugares de la bocacosta del Pacífico, en el oriente y Altiplano.",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "SALVIA REAL",
+        "source_pages": [
+            197,
+            198
+        ],
+        "synonyms": [],
+        "other_popular_names": [
+            "Salvia",
+            "Salvia Santa"
+        ],
+        "medical_used_parts": [
+            "Hojas"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de la cuenca Mediterránea, en terrenos rocosos hasta 1,800 msnm, en clima templado-cálido; ampliamente cultivada y aclimatada en jardines y huertos de Europa y Asia. En Guatemala se cultiva en el Altiplano central",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "SALVIA SANTA",
+        "source_pages": [
+            199,
+            200
+        ],
+        "synonyms": [
+            "Buddleja occidentalis L., B. callicarpoides HBK, B.",
+            "dentata HKB, B. floribunda, HBK, B. rufescens Willd.,",
+            "B. verbascifolia HBK, B. decurrens Schlecy. et Cham."
+        ],
+        "other_popular_names": [
+            "Hoja blanca",
+            "Sactzam",
+            "Salvia",
+            "Salviona",
+            "Tepozán"
+        ],
+        "medical_used_parts": [
+            "Hojas"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de América, se encuentra en la cuenca del Caribe, del centro de México a Centro América y partes de Sur América en alturas de 80-2,100 msnm; a menudo se encuentra en terrenos rocosos a lo largo de ríos y arroyos o bordeando los campos de cultivo. Se ha descrito en la mayoría del país en clima templado",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "SALVIA SIJA",
+        "source_pages": [
+            201,
+            202
+        ],
+        "synonyms": [
+            "Lantana alba Mill.; L. lippioides HA.; Lippia geminata",
+            "HBK; L. geminata var. microphylla Griseb.; L.",
+            "lantanoides Coult."
+        ],
+        "other_popular_names": [
+            "Juanilama",
+            "Mastranto",
+            "Salvia Santa",
+            "Santa María"
+        ],
+        "medical_used_parts": [
+            "Hojas y flores"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de América, crece de México a Sur América y el Caribe en laderas, a la orilla de caminos y riveras de los ríos en alturas hasta de 1,800 msnm. Se ha descrito en Alta Verapaz, Chimaltenango, Chiquimula, Escuintla, Guatemala, Huehuetenango, Sacatepéquez, Sololá y Suchitepéquez",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "SANALOTODO",
+        "source_pages": [
+            203,
+            204
+        ],
+        "synonyms": [
+            "House et al. 1995."
+        ],
+        "other_popular_names": [
+            "Curatodo",
+            "Gordolobo"
+        ],
+        "medical_used_parts": [
+            "Flores"
+        ],
+        "description": "<description>",
+        "habitat": "G. stramineum es nativa de Norte América; naturalizada en Centro América como maleza en bosques de pino y encino de 1,800-2,400 msnm. Se ha descrito en: Escuintla, Guatemala, Huehuetenango y Zacapa G. viscosum es nativa del sur de México y Centro América, aclimatada como maleza en matorrales y bosques de pino-encino de 1,100-2,800 msnm. Se ha descrito en Chimaltenango, Chiquimula, Guatemala, Jalapa, Huehuetenango, Quezaltenango, Quiché, Sacatepéquez, San Marcos, Sololá y Zacapa USOS Y PROPIEDADES MEDICINALES Hernández informa su nombre náhuatl (Tzonpotónic) y su uso precolombino \"..para curar la tos, el empacho y los dolores de vientre, así como para aflojar las articulaciones cargadas de humores y entorpecidas y provocar la sudoración..\" La infusión de flores se usa por vía oral para tratar inflamación de los riñones, afecciones gastrointestinales (diarrea, disentería, dispepsia, dolor de estómago, flatulencia, indigestión, gastritis) y respiratorias (bronquitis, dolor de garganta, gripe, tos), paludismo, inflamación de los riñones, reumatismo, úlcera y cáncer del estómago 5,6, 203 -",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "SAÚCO",
+        "source_pages": [
+            205,
+            206
+        ],
+        "synonyms": [
+            "Sambucus bipinnata Schlecht & Cham, S. simsonii",
+            "Rehder; Aralia sololensis Donn.-Sm."
+        ],
+        "other_popular_names": [
+            "Bajman",
+            "Sacatsun",
+            "Tzoloj",
+            "Tzolokquen"
+        ],
+        "medical_used_parts": [
+            "Hojas, flores y corteza"
+        ],
+        "description": "<description>",
+        "habitat": "Nativo de México y Centro América. Árbol ampliamente cultivado en varias partes de Sur América y el Caribe hasta 3,000 msnm. En Guatemala es cultivada como cerco vivo en casi todas las altitudes",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "SEN",
+        "source_pages": [
+            207,
+            208
+        ],
+        "synonyms": [
+            "C. angustifolia: C. officinalis L.",
+            "C. senna: C. acutifolia Delile"
+        ],
+        "other_popular_names": [
+            "Sena"
+        ],
+        "medical_used_parts": [
+            "Hojas y frutos."
+        ],
+        "description": "<description>",
+        "habitat": "C. angustifolia es nativa de Somalia, Arabia y Yemen, pero se cultiva en grandes cantidades en India; C. senna es nativa del Africa Septentrional y Nororiental y es cultivada en India y Sudán",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "TAMARINDO",
+        "source_pages": [
+            209,
+            210
+        ],
+        "synonyms": [],
+        "other_popular_names": [],
+        "medical_used_parts": [
+            "Frutos"
+        ],
+        "description": "<description>",
+        "habitat": "Nativo de África, naturalizado en zonas secas del trópico hasta 1,200 msnm. Cultivado en Baja Verapaz, Chiquimula, El Progreso, Escuintla, Jutiapa, Petén, Retalhuleu, San Marcos, Santa Rosa y Zacapa",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "TE DE LIMÓN",
+        "source_pages": [
+            211,
+            212
+        ],
+        "synonyms": [
+            "Andropogon citratus DC, A. schoenanthus Spreng"
+        ],
+        "other_popular_names": [
+            "Limoncillo",
+            "Zacate limón"
+        ],
+        "medical_used_parts": [
+            "Hojas"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de la India y sur de Asia, crece en clima tropical húmedo, soleado, en alturas de 100-1200 msnm; varias especies son cultivadas comercialmente en Asia, Centro y Sud América",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "TILO",
+        "source_pages": [
+            213,
+            214
+        ],
+        "synonyms": [],
+        "other_popular_names": [],
+        "medical_used_parts": [
+            "Flores con brácteas y hojas"
+        ],
+        "description": "<description>",
+        "habitat": "Nativo de bosques cerrados o abiertos de Europa, se encuentra acompañado de hayas, arces, serbales y otras especies de árboles de sombra, en alturas entre 1000-1500 msnm. Cultivado en China, los Balcanes, Turquía y Europa para el mercado internacional.",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "TIMBOCO",
+        "source_pages": [
+            215,
+            216
+        ],
+        "synonyms": [
+            "Bignonia stans L., B. frutescens Miller ex DC,",
+            "Stenolobium stans (L) Seem., S. incisum Rose &",
+            "Stand.,"
+        ],
+        "other_popular_names": [
+            "Chacté",
+            "Flor Amarilla",
+            "San Andrés",
+            "Trompeta",
+            "Tronadora"
+        ],
+        "medical_used_parts": [
+            "Hojas y corteza"
+        ],
+        "description": "<description>",
+        "habitat": "Nativo de México, Centro y Sud América en matorrales, laderas rocosas abiertas, bosque seco subtropical y monte espinoso hasta 1,500 msnm, introducido en otras partes del mundo. Descrito en la mayoría del país en clima seco",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "TOMILLO",
+        "source_pages": [
+            217,
+            218
+        ],
+        "synonyms": [],
+        "other_popular_names": [],
+        "medical_used_parts": [
+            "Ramas de hojas y flores"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa del Mediterráneo en alturas de 0-1,800 msnm y del oeste de Asia entre 1,500-4,000 msnm, ampliamente cultivada en clima montañoso, templado y subtropical de América y el Caribe. Se cultiva en el altiplano central y occidental en lugares secos y soleados.",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "TORONJIL",
+        "source_pages": [
+            219,
+            220
+        ],
+        "synonyms": [
+            "Thymus brownei Swartz, Satureja xalapensis Briq.,",
+            "Micromeria brownei Benth., M. xalapensis HBK"
+        ],
+        "other_popular_names": [
+            "Ajedrea",
+            "Matalzin",
+            "Poleo"
+        ],
+        "medical_used_parts": [
+            "Hojas y flores"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa del Viejo Continente, cultivada en terrenos sombreados y riveras de ríos. Cultivada en climas templados de Norte y Sud América en alturas de 1,200-2,500 msnm. Se ha descrito en Alta Verapaz, Baja Verapaz, Chimaltenango, Guatemala, Huehuetenango, Jalapa, Quiché, Sacatepéquez, San Marcos y Sololá",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "TRES PUNTAS",
+        "source_pages": [
+            221,
+            222
+        ],
+        "synonyms": [
+            "Conyza lobata L."
+        ],
+        "other_popular_names": [
+            "Capitana",
+            "Contragavilana",
+            "Gavilana",
+            "Hierba Amarga",
+            "Mano de lagarto"
+        ],
+        "medical_used_parts": [
+            "Hojas y flores"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa del Sur de México a Panamá como maleza en plantaciones, lugares escarpados u orilla de caminos o ríos, en matorrales húmedos o bosques de encino, comunmente en crecimiento secundario, a menudo en terrenos cultivados y lugares abiertos; se distribuye desde el nivel del mar hasta 1,400 msnm. Se ha descrito en Alta Verapaz, Chiquimula, Escuintla, Izabal, El Petén, El Progreso, Quezaltenango, Retalhuleu, San Marcos, Santa Rosa y Suchitepéquez su aprovicionamiento sostenible. Es una planta anual que se propaga por semilla, que germina un 50% a los 20 días, luego se trasplanta a almácigo o al terreno definitivo. Las hojas se colectan en plena floración, se lavan y secan a la sombra USOS Y PROPIEDADES MEDICINALES Género de seis especies originarias de América tropical, cinco presentes en Guatemala. Las hojas y tallos son de amplio uso medicinal en Centro América, se encuentra de venta en algunos mercados La infusión de las hojas, que es amarga, se administra por vía oral para tratar afecciones digestivas, diabetes, malaria y otros procesos febriles, además de gonorrea e inflamaciones 5,6, Las hojas frescas machacadas se aplican tópicamente en picazones; el jugo es sobado en la piel como repelente de garrapatas; la infusión se aplica para sanar diversos tipos de heridas, lesiones y úlceras Se le atribuye propiedad antibiótica, antimalárica, aperitiva, carminativa, diurética, espasmolítica, febrífuga, hipoglicémica, hipotensora y tónica",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "VALERIANA",
+        "source_pages": [
+            223,
+            224
+        ],
+        "synonyms": [],
+        "other_popular_names": [
+            "Raíz de gato",
+            "Uxe’ ulew"
+        ],
+        "medical_used_parts": [
+            "Raíces"
+        ],
+        "description": "<description>",
+        "habitat": "Nativa de Europa y Asia, naturalizada en el noreste de América, se encuentra en lugares húmedos y umbrosos, silvestre o cultivada en clima templado o de montaña, en bosques hasta de 2,100 msnm.",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "VERBENA",
+        "source_pages": [
+            225,
+            226
+        ],
+        "synonyms": [
+            "V. carolina = V. polystachya HBK, V. hirsuta Mart &",
+            "Gal., V. mollis Mart. & Gal., V. paucifolia Mart. & Gal.",
+            "V. litoralis = Verbena affinis Mart. & Gal., V. brasiliensis",
+            "Vell., V. hansenii Greene"
+        ],
+        "other_popular_names": [
+            "Chachalbe",
+            "Chichavac",
+            "Cotacám",
+            "Dorí",
+            "Verbena fina"
+        ],
+        "medical_used_parts": [
+            "Hojas"
+        ],
+        "description": "<description>",
+        "habitat": "V. carolina es nativa de Norte y Centro América, V. litoralis de Norte, Centro y Sud América. Se encuentran como hierbas en bosques de pino-encino, de 853,100 msnm. Descritas en Alta Verapaz, Chimaltenango, Guatemala, Huehuetenango, Izabal, Jalapa, Quezaltenango, Quiché, Santa Rosa y Sololá",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    },
+    {
+        "name": "ZARZAPARRILLA",
+        "source_pages": [
+            227,
+            228
+        ],
+        "synonyms": [
+            "S. domingensis = S. lanceolata L., S. caudata Lundell",
+            "S. regelii = S. grandifolia Regel, S. ornata Hook."
+        ],
+        "other_popular_names": [
+            "Bejuco de la vida",
+            "Cocolmeca",
+            "China root",
+            "Diente de Chucho",
+            "Palo de la vida"
+        ],
+        "medical_used_parts": [
+            "Rizoma y raíces"
+        ],
+        "description": "<description>",
+        "habitat": "S. domingensis es nativa de bosques húmedos y espesuras hasta 2,100 msnm; distribuida de Veracruz a Panamá y las Antillas. S. regelii es nativa de selvas altas perennifolias; distribuida de Oaxaca a Nicaragua",
+        "obtaining": "<obtaining>",
+        "medicinal_uses_and_properties": "<medicinal_uses>",
+        "experimental_and_clinical_pharmacology": "<pharmacology>"
+    }
+]
